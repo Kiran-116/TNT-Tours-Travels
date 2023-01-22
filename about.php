@@ -51,8 +51,8 @@
 
    <div class="content">
       <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <p>Welcome to our Tours & Travels website, your ultimate destination for planning and booking the perfect vacation. We offer a wide range of travel options, from domestic and international tours to customized packages that cater to your specific interests and budget. Our team of experienced travel planners and guides work diligently to ensure that your trip is seamless, enjoyable, and unforgettable.</p>
+      <p> Whether you're looking for adventure, culture, or relaxation, we've got you covered. Browse our website to learn more about our offerings, and don't hesitate to contact us if you have any questions or need help planning your next trip. Happy travels!</p>
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
@@ -91,8 +91,10 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
+            <p>
+               Desirous of doing a Jain pilgrimage tour of Uttar Pradesh which has many important Jain temples, I wrote to four tour operators. But only Tour My India replied positively. It was a first for them too, but they took up the challenge and worked out a plan for me.
+               I thank them for this. Beginning from prompt replies from Vishwa ji at the planning stage and the hotels and the driver, everything...</p>
+            <h3>Kiran</h3>
             <span>traveler</span>
             <img src="images/pic-1.png" alt="">
          </div>
@@ -104,8 +106,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
-            <h3>john deo</h3>
+            <p>It was a wonderful experience for us. All your arrangements were up to the mark.
+All hotels and transportation arrangements were excellent. Though we had faced some problems with hotel at Kedarnath you handled it swiftly and efficiently. Thanks for your support and prompt response.</p>
+            <h3>Jyotsna</h3>
             <span>traveler</span>
             <img src="images/pic-2.png" alt="">
          </div>
@@ -116,8 +119,12 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
-            <h3>john deo</h3>
+            <p>My family finished Char Dham Yatra successfully last week. 
+            We have just got back from our long holiday around India.
+Just wanted to say how much we enjoyed our trip' how we felt so looked after and how well our driver Uday took us around.
+Everything went very well and I would like to pass on special. Thank to all of you. I will connect with you for future trips.
+            </p>
+            <h3>Sadanand</h3>
             <span>traveler</span>
             <img src="images/pic-3.png" alt="">
          </div>
@@ -209,7 +216,7 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
+         <a href="#"> <i class="fas fa-envelope"></i> tnt@gmail.com </a>
          <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
       </div>
 
@@ -224,6 +231,7 @@
    </div>
 
    <div class="credit"> created by *<span>Kiran</span>  *<span>Sadanand</span><br> *<span>Saurabh</span> *<span>Jyotsna</span> </div>
+
 </section>
 
 <!-- footer section ends -->

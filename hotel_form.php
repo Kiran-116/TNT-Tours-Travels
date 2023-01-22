@@ -51,72 +51,6 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/hotel2.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Hotel  </h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/hotel3.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Hotel  </h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/hotel10.jpeg" alt="">
-         </div>
-         <div class="content">
-            <h3>Hotel  </h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/hotel5.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Hotel  </h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/hotel11.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Hotel  </h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/hotel12.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Hotel  </h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
             <img src="images/hotel10.jpeg" alt="">
          </div>
          <div class="content">
@@ -181,6 +115,72 @@
          </div>
       </div>
 
+      <div class="box">
+         <div class="image">
+            <img src="images/hotel2.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Hotel  </h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/hotel3.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Hotel  </h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/hotel10.jpeg" alt="">
+         </div>
+         <div class="content">
+            <h3>Hotel  </h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/hotel5.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3> RAMBAGH PALACE  </h3>
+            <p>The Pink city of India, Jaipur has an array of architectural wonders that mirrors India’s glorious heritage. The Rambagh palace built-in 1835 is one such marvel that was the residence of former Maharaja of Jaipur. The Taj group has impressively restored it to a luxurious hotel while keeping its essence of royalty intact.</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/hotel11.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3> THE ST. REGIS MUMBAI  </h3>
+            <p>Located in the premier commercial and entertainment hub of Mumbai, St Regis is a luxurious 5-star hotel by the Marriott group. It is situated in Mumbai’s tallest building in Lower Parel and overlooks the Arabian sea. The 395 guest rooms including the ultra-luxurious suites are thoughtfully designed to make you feel at home. </p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/hotel12.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3> SOHO HOUSE MUMBAI  </h3>
+            <p>Discover the city of dreams Mumbai in superior luxury at the SOHO House. With the views of the Arabian sea on one side and the glamorous city on the other, the hotel showcases the true essence of Mumbai. The sunset views from the rooftop pool in this multi-storey building is a fascinating experience. </p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
    </div>
 
    <div class="load-more"><span class="btn">load more</span></div>
@@ -230,7 +230,7 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
+         <a href="#"> <i class="fas fa-envelope"></i> tnt@gmail.com </a>
          <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
       </div>
 
@@ -244,7 +244,7 @@
 
    </div>
 
-   <div class="credit"> created by <span> K</span> | all rights reserved! </div>
+   <div class="credit"> created by *<span>Kiran</span>  *<span>Sadanand</span><br> *<span>Saurabh</span> *<span>Jyotsna</span> </div>
 
 </section>
 

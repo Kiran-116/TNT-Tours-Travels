@@ -25,7 +25,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">TNT -> Tours & Travels </a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -301,7 +301,7 @@ live till 23rd January.So, get set for EPIC journeys with these good deals:</p>
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
+         <a href="#"> <i class="fas fa-envelope"></i> tnt@gmail.com </a>
          <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
       </div>
 

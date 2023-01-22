@@ -6,36 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sign Up and Login</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="css/style.css">
-
-       <!-- swiper css link  -->
-   <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-
-   <!-- font awesome cdn link  -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
 </head>
 <body>
-
-    <section class="header">
-
-        <a href="home.php" class="logo">TNT -> Tours & Travels</a>
-     
-     
-        <nav class="navbar">
-           <a href="home.php">home</a>
-           <a href="about.php">about</a>
-           <a href="package.php">package</a>
-           <a href="book.php">book</a>
-        </nav>
-     
-        <div id="menu-btn" class="fas fa-bars"></div>
-     
-     </section>
-
-
     <div class="hero">
         <div class="form-box">
+            <center><h2>Admin Login/Register</h2></center>
             <div class="button-box">
                 <div id="btn"></div>
                 <button type="button" class="toggle-btn" onclick="login()"> Log In</button>
@@ -48,6 +24,7 @@
             </div>
             <!-- Login Form -->
             <form id="login" class="input-group" action="login_check.php" method="POST">
+               
                 <input type="text" class="input-field" placeholder="User Id" name='username'
                 required>
                 <input type="text" class="input-field" placeholder="Enter Password" name="password"
@@ -69,18 +46,9 @@
                 <span> I agree to the Terms and Conditions </span>
                 <button type="submit" class="submit-btn">Login</button>
             </form>
-            <br> <br>
         </div>
         
     </div>
-
-
-
-    <!-- swiper js link  -->
-    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
-
-    <!-- custom js file link  -->
-    <script src="js/script.js"></script>
 
     <script src="login.js"></script>
 </body>

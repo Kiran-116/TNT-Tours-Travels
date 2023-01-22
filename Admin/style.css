@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(252, 252, 234);
+    background-color: cornsilk;
 }
 
 .hero {
@@ -9,7 +9,6 @@ body {
     background-position: center;
     background-size: cover;
     position: absolute;
-
 }
 
 .form-box {
@@ -21,8 +20,6 @@ body {
     padding: 5px;
 /* now we will hide the other form */
     overflow: hidden;
-    /* border: 2px black solid; */
-    border-radius: 12px;
 }
 
 .button-box {
